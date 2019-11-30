@@ -1,0 +1,9 @@
+C:\Users\can\source\repos\LİG\LİG\bin\Debug\LİG.exe.config
+C:\Users\can\source\repos\LİG\LİG\bin\Debug\LİG.exe
+C:\Users\can\source\repos\LİG\LİG\bin\Debug\LİG.pdb
+C:\Users\can\source\repos\LİG\LİG\obj\Debug\LİG.csprojAssemblyReference.cache
+C:\Users\can\source\repos\LİG\LİG\obj\Debug\LİG.Form1.resources
+C:\Users\can\source\repos\LİG\LİG\obj\Debug\LİG.Properties.Resources.resources
+C:\Users\can\source\repos\LİG\LİG\obj\Debug\LİG.csproj.GenerateResource.cache
+C:\Users\can\source\repos\LİG\LİG\obj\Debug\LİG.exe
+C:\Users\can\source\repos\LİG\LİG\obj\Debug\LİG.pdb
